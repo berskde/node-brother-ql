@@ -1,0 +1,20 @@
+{
+  "name": "node-brother-ql",
+  "version": "1.0.0",
+  "description": "Node.js package for the raster language protocol of the Brother QL series label printers",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berskde/node-brother-ql.git"
+  },
+  "author": "berskde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berskde/node-brother-ql/issues"
+  },
+  "homepage": "https://github.com/berskde/node-brother-ql#readme"
+}
